@@ -1,6 +1,6 @@
-#Codewars
+# Codewars
 ___
-###[English version](README_ENG.md) 
+### [English version](README_ENG.md) 
 
 __Здравствуйте__, в этом репозитории храню свои варианты решений некоторых задач с известного ресурса посвящённого 
 программированию [Codewars](https://www.codewars.com/). Крайне любопытный ресурс на котором есть задачи любой 
