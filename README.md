@@ -1,13 +1,13 @@
-#Codewars
+# Codewars
 ___
-###[English version](README_ENG.md) 
+### [English version](README_ENG.md) 
 
 __Здравствуйте__, в этом репозитории храню свои варианты решений некоторых задач с известного ресурса посвящённого 
 программированию [Codewars](https://www.codewars.com/). Крайне любопытный ресурс на котором есть задачи любой 
 сложности и практически на любые темы.
 
 ![](https://www.codewars.com/users/vivera83/badges/large)
-[перейти к пробелю](https://www.codewars.com/users/vivera83)
+[перейти к профелю](https://www.codewars.com/users/vivera83)
 
 Все задачи разложены по папкам по степени сложности от 8 до 1, 8 - самая простая,
 1 - самая сложная
