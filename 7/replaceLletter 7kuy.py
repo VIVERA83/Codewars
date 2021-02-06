@@ -47,5 +47,5 @@ for index, string in enumerate(text, 1):
 def heggeleggleggo(word):
     return re.sub(r'(?i)([^aeiou\W])', r'\1egg', word)
 # (?i) - флаг игнорирования верхнего регистра
-# ([^aeiou\W]) - наш шаблон, ищем все буквы кроме описаннх и символов \W
+# ([^aeiou\W]) - наш шаблон, ищем все буквы кроме описанных и символов \W
 # r'\1egg' - это шаблон для замены, \1 = (?i)([^aeiou\W])
